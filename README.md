@@ -20,11 +20,11 @@ Some recommendations that worked for me:
   - I completed the course - AWS Cloud Practitioner Essentials. It is free and it just takes 6 hours.
   - I tried some AWS Cloud practitioner sample questions.
   - I read about the pricing model, conditions of service support and the available regions.
-  - I tried the simulation tests in [Whizlabs](https://www.whizlabs.com), [Udemy](https://www.udemy.com/) or [O'reilly](https://www.oreilly.com/) They are paid, but free trial versions work well.
+  - I tried the simulation tests in [Whizlabs], [Udemy] y [O'reilly]. They are paid, but free trial versions work well.
   - I attended the online exam, so I chose my home with the supervision of a remote person.
   - Finally, I tried to sleep well the previous day and after the exam, I enjoyed a bar of chocolate!  If you don't pass the exam, there is always a solution. Although you have to pay again, it is not game over!
 
- Consider following this roadmap and mark each step when you finish :smile:
+ Consider following this roadmap and mark each step when you finish!
 ```
 
 ## Roadmap
@@ -55,6 +55,9 @@ Some recommendations that worked for me:
 
 ## [Step 3 AWS Training](https://aws.amazon.com/es/training)
 - [AWS Practitioner Course](https://aws.amazon.com/es/training/course-descriptions/cloud-practitioner-essentials)
+- [Whizlabs](https://www.whizlabs.com)
+- [Udemy](https://www.udemy.com/)
+- [O'reilly](https://www.oreilly.com/)
 
 
 ## [Step 4 AWS Certification](https://aws.amazon.com/certification/)
@@ -83,7 +86,6 @@ Some recommendations that worked for me:
 | VPC        | Virtual Private Cloud        	|
 | SDK        | Software Development Kit     	|
 | CDK        | Cloud Development Kit        	|
-| WAF        | Web Application Firewall     	|
 | EMR        | Elastic MapReduce            	|
 | WAF        | Web Application Firewall     	|
 | IAM        | Identity Access Management   	|

@@ -72,6 +72,7 @@ Some recommendations that worked for me:
 
 ## Step 6 AWS Labs More Resources
 - [AWS Labs & Resources](https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/Cloud-Practitioner-Labs.pdf)
+- [AWS CCP Training 2020 Full Course](https://www.youtube.com/watch?v=3hLmDS179YE)
 
 
 ## Glossary
